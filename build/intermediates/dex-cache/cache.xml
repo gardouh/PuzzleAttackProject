@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        min-sdk-version="1"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/mac/Downloads/PuzzleAttack/puzzleAttack/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+
+</items>
